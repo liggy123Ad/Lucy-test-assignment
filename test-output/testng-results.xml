@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26950" started-at="2019-06-23T22:55:35Z" finished-at="2019-06-23T22:56:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26950" started-at="2019-06-23T22:55:35Z" finished-at="2019-06-23T22:56:01Z">
+      <class name="com.mudano.tests.CreateUserAndRecordTimeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mudano.tests.CreateUserAndRecordTimeTest@2ac1fdc4]" name="setUp" is-config="true" duration-ms="13454" started-at="2019-06-23T23:55:35Z" finished-at="2019-06-23T23:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createUser()[pri:0, instance:com.mudano.tests.CreateUserAndRecordTimeTest@2ac1fdc4]" name="createUser" duration-ms="3779" started-at="2019-06-23T23:55:48Z" finished-at="2019-06-23T23:55:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mudano.tests.CreateUserAndRecordTimeTest@2ac1fdc4]" name="tearDown" is-config="true" duration-ms="983" started-at="2019-06-23T23:55:52Z" finished-at="2019-06-23T23:55:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mudano.tests.CreateUserAndRecordTimeTest@2ac1fdc4]" name="setUp" is-config="true" duration-ms="5395" started-at="2019-06-23T23:55:53Z" finished-at="2019-06-23T23:55:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="recordTime()[pri:0, instance:com.mudano.tests.CreateUserAndRecordTimeTest@2ac1fdc4]" name="recordTime" duration-ms="2518" started-at="2019-06-23T23:55:58Z" finished-at="2019-06-23T23:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recordTime -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mudano.tests.CreateUserAndRecordTimeTest@2ac1fdc4]" name="tearDown" is-config="true" duration-ms="792" started-at="2019-06-23T23:56:01Z" finished-at="2019-06-23T23:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mudano.tests.CreateUserAndRecordTimeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
